@@ -1,2 +1,2 @@
 # heading of readme
-sample text
+sample text for the understanding for git and github
